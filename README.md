@@ -83,6 +83,7 @@ Compartido con el objetivo de ayudar a otros usuarios que enfrenten problemas si
 
 ¿Tienes ideas o mejoras? ¡Pull requests y sugerencias son bienvenidos!
 
+_Repositorio clonado y editado desde Visual Studio Code – Junio 2025_
 
 
 
