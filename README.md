@@ -66,4 +66,25 @@ chmod +x msmtp_daily_report.sh
 */5 * * * * /root/ctrld_bootstrap_selector.sh >> /root/logs/ctrld_monitor.log 2>&1
 0 2 * * * /root/fetch_mikrotik_backup.sh
 30 2 * * * /root/msmtp_daily_report.sh
+```
+
+
+## 📚 Documentación extendida
+
+👉 Revisa la [bitácora técnica](docs/bitacora_tecnica.md) para conocer en detalle el proceso de análisis, solución implementada y aprendizajes obtenidos.
+
+
+## 🧠 Créditos y contribución
+
+Este proyecto nace de una experiencia real de troubleshooting y ajustes de red entre una Raspberry Pi, MikroTik y ControlD.  
+Compartido con el objetivo de ayudar a otros usuarios que enfrenten problemas similares.
+
+
+
+¿Tienes ideas o mejoras? ¡Pull requests y sugerencias son bienvenidos!
+
+
+
+
+
 
